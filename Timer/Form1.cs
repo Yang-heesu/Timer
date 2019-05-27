@@ -77,7 +77,7 @@ namespace Timer
         {
             if(e.KeyChar == 13)
             {
-
+                ProcessTimer();
             }
         }
     }
